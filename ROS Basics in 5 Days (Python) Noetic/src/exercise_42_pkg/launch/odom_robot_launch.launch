@@ -1,0 +1,4 @@
+<launch>
+      <node pkg='exercise_42_pkg' type='odom_robot' name='odom_robot_node' output='screen'>
+      </node>
+</launch>      
